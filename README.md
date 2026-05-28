@@ -1,4 +1,4 @@
-# About Me:
+# About Me :
 # Hi, I'm Jyotsna 👋<br><br>An AIML B.Tech student who loves diving into **Data Analytics**. I use this space to share my journey as I learn to turn messy, raw datasets into clean queries, interactive dashboards, and practical projects.
 
 ## 🌐 Socials:
